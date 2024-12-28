@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URLShortener.API", "URLShortener.API\URLShortener.API.csproj", "{467FA2FE-8E9A-42F4-876B-3E41B3FDF020}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URLShortener.AppHost", "URLShortener.AppHost\URLShortener.AppHost.csproj", "{4AEE4F67-E9D7-45AA-8BDB-12E0D5A65C17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URLShortener.ServiceDefaults", "URLShortener.ServiceDefaults\URLShortener.ServiceDefaults.csproj", "{8771CA3D-5C08-48E7-96D4-659B158FF8F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{467FA2FE-8E9A-42F4-876B-3E41B3FDF020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{467FA2FE-8E9A-42F4-876B-3E41B3FDF020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{467FA2FE-8E9A-42F4-876B-3E41B3FDF020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{467FA2FE-8E9A-42F4-876B-3E41B3FDF020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AEE4F67-E9D7-45AA-8BDB-12E0D5A65C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AEE4F67-E9D7-45AA-8BDB-12E0D5A65C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AEE4F67-E9D7-45AA-8BDB-12E0D5A65C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AEE4F67-E9D7-45AA-8BDB-12E0D5A65C17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8771CA3D-5C08-48E7-96D4-659B158FF8F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8771CA3D-5C08-48E7-96D4-659B158FF8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8771CA3D-5C08-48E7-96D4-659B158FF8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8771CA3D-5C08-48E7-96D4-659B158FF8F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
