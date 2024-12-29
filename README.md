@@ -2,6 +2,8 @@
 
 URL Shortener API is a simple and efficient microservice for shortening URLs, retrieving the original URLs, and tracking URL usage metrics. It leverages PostgreSQL, Redis, and OpenTelemetry to deliver a robust solution for URL shortening.
 
+## **Orchestration with .NET Aspire**
+The application uses .NET Aspire for service orchestration
 ---
 
 ## Features
