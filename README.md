@@ -16,7 +16,7 @@ URL Shortener API is a simple and efficient microservice for shortening URLs, re
 
 ## Technologies Used
 
-- **C# and .NET 7**: Core backend language and framework.
+- **.NET 9.0**: Core backend language and framework.
 - **PostgreSQL**: Primary database for persistent storage.
 - **Redis**: Distributed caching layer.
 - **Dapper**: Lightweight ORM for database interactions.
